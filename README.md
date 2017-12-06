@@ -5,7 +5,7 @@ Link: [Bolts-Swift][boltslink]
 
 # Info
 ## Result Image
-![Result Image text](/image/result_image.png "Result View")
+![Result Image text](/Image/result_image.png "Result View")
 
 ## Source
 <pre><code>
