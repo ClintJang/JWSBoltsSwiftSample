@@ -1,11 +1,13 @@
 # JWSBoltsSwiftSample
+## Description
 Just Bolts-Swift Sample Source ..
-Link: [Bolts-Swift][boltslink]
-[boltslink]: https://github.com/BoltsFramework/Bolts-Swift "Go Bolts-Swift"
+- It is a sample that executes several tasks and receives notification of the result after all.
+- Bolts-Swift Link: https://github.com/BoltsFramework/Bolts-Swift
 
 # Info
 ## Result Image
-![Result Image text](/Image/result_image.png "Result View")
+
+<img width="325" height="667" src="/Image/result_image.png"></img>
 
 ## Source
 <pre><code>
