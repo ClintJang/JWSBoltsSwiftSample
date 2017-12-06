@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  JWSBoltsSwiftSample
 //
-//  Created by Jang Wangsu on 2017. 12. 6..
+//  Created by ClintJang on 2017. 12. 6..
 //  Copyright © 2017년 ClintJang. All rights reserved.
 //
 
