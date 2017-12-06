@@ -40,10 +40,13 @@ class ViewController: UIViewController {
             let message = "\n\nAll task Completion!!!!!! \n\ninfo : \(task)"
             print(message)
             
-            let alert = UIAlertController(title: "Completion", message: message, preferredStyle: UIAlertControllerStyle.alert)
-            alert.addAction(UIAlertAction(title: "OK", style: UIAlertActionStyle.default, handler: nil))
-            self.present(alert, animated: true, completion: nil)
-            
+                
+            // Popup
+            {
+                let alert = UIAlertController(title: "Completion", message: message, preferredStyle: UIAlertControllerStyle.alert)
+                alert.addAction(UIAlertAction(title: "OK", style: UIAlertActionStyle.default, handler: nil))
+                self.present(alert, animated: true, completion: nil)
+            }
             return "Completion"
         }
     }
