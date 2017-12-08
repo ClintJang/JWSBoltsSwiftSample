@@ -1,5 +1,8 @@
 # JWSBoltsSwiftSample
+[![License](http://img.shields.io/badge/License-MIT-green.svg?style=flat)](https://github.com/clintjang/JWSBoltsSwiftSample/blob/master/LICENSE) [![Swift 4](https://img.shields.io/badge/Swift-4.0-orange.svg?style=flat)](https://swift.org) [![Twitter: @clintjang](https://img.shields.io/badge/Contact-Twitter-blue.svg?style=flat)](https://twitter.com/clintjang)
+
 ## Description
+
 Just Bolts-Swift Sample Source ..
 - It is a sample that executes several tasks and receives notification of the result after all.
 - Bolts-Swift Link: https://github.com/BoltsFramework/Bolts-Swift
