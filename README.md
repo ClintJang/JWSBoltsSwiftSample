@@ -135,3 +135,9 @@ func runTestTask() {
     }
 
 </code></pre>
+
+## License
+
+Copyright 2017 Clint Jang.
+
+Licensed under MIT License: https://opensource.org/licenses/MIT
