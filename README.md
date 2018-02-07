@@ -6,6 +6,7 @@
 Just Bolts-Swift Sample Source ..
 - It is a sample that executes several tasks and receives notification of the result after all.
 - Bolts-Swift Link: https://github.com/BoltsFramework/Bolts-Swift
+- Rather than this, you can use "zip" in RxSwift.
 
 # Info
 ## Result Image
